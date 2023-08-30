@@ -13,6 +13,7 @@ Italy is well-known for its architecture, culture, art, opera, literature, film,
 *****
 ### Sports Recommendations
 The below table shows 4 kinds of sports that I would recommend to others. Each of them offers a unique set of benefits, from cardiovascular fitness to teamwork and mental focus.<br>
+<<<<<<< HEAD
 | Sport Name     | Recommendation Reason                                   | Average Weekly Hours |
 |----------------|---------------------------------------------------------|:-----------------------:|
 | **Tennis**     | Great for improving agility and cardiovascular fitness.          | 3-5 hours            |
@@ -20,4 +21,13 @@ The below table shows 4 kinds of sports that I would recommend to others. Each o
 | **Swimming**   | Low-impact, full-body workout, perfect for all fitness levels.   | 3-4 hours            |
 | **Yoga**       | Reduces stress, enhances flexibility, and promotes mindfulness.  | 2-3 hours            |
 | **Soccer**     | Boosts teamwork, cardiovascular health, and agility.             | 5-7 hours            |
+=======
+| Sport Name     | Recommendation Reason                                 | Average Weekly Hours  |
+|----------------|-------------------------------------------------------|-----------------------|
+| **Tennis**     | Great for improving agility and cardiovascular fitness.     | : 3-5 hours :     |
+| **Hiking**     | An excellent way to connect with nature and stay active.    | :4-6 hours:     |
+| **Swimming**   | Low-impact, full-body workout, perfect for all fitness levels. | :3-4 hours:            |
+| **Yoga**       | Reduces stress, enhances flexibility, and promotes mindfulness.  | :2-3 hours:            |
+| **Soccer**     | Boosts teamwork, cardiovascular health, and agility.             | :5-7 hours:            |
+>>>>>>> b4132bc4cb7c2eb9a4e40d60632157379be0027b
 
