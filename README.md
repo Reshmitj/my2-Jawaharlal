@@ -22,5 +22,5 @@ The below table shows 5 kinds of sports that I would recommend to others. Each o
 | **Soccer**     | Boosts teamwork, cardiovascular health, and agility.             | 5-7 hours            |
 *****
 ### Favorite Quotes
-> "We cannot solve problems with the kind of thinking we employed when we came up with them." — *Albert Einstein*<br>
+> "When you change your thoughts, remember to also change your world."— *Norman Vincent Peale*<br>
 > "Learn as if you will live forever, live like you will die tomorrow." — *Mahatma Gandhi*
