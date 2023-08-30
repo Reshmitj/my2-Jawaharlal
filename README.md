@@ -13,10 +13,11 @@ Italy is well-known for its architecture, culture, art, opera, literature, film,
 *****
 ### Sports Recommendations
 The below table shows 4 kinds of sports that I would recommend to others. Each of them offers a unique set of benefits, from cardiovascular fitness to teamwork and mental focus.<br>
-| Sport          | Description                                      | Benefits                                               |
-|----------------|--------------------------------------------------|--------------------------------------------------------|
-| **Tennis**     | Tennis is a fast-paced racquet sport that can be played recreationally as well as competitively. It promotes agility, hand-eye coordination, and provides a great cardiovascular workout. | - Improved agility - Enhanced hand-eye coordination - Cardiovascular fitness |
-| **Cycling**    | Cycling is a versatile activity that can be customized to different levels of fitness. It builds leg muscles, promotes endurance, and allows you to discover gorgeous routes, whether you enjoy leisurely rides or tough mountain biking. | - Stronger leg muscles - Increased endurance - Outdoor adventure |
-| **Swimming**   | Swimming is a great full-body workout that is also gentle on the joints. It increases lung capacity, muscle strength, and provides a refreshing way to chill down in hot weather. | - Full-body workout - Low impact on joints - Cooling sensation |
-| **Yoga**       | Yoga is a mind-body discipline that emphasizes flexibility, balance, and relaxation. It is appropriate for people of all ages and fitness levels, and it can help decrease stress, improve posture, and develop awareness. | - Improved flexibility - Stress reduction - Mindfulness      |
+| Sport Name     | Recommendation Reason                                            | Average Weekly Hours |
+|----------------|-------------------------------------------------------------------|-----------------------|
+| **Tennis**     | Great for improving agility and cardiovascular fitness.          | 3-5 hours            |
+| **Hiking**     | An excellent way to connect with nature and stay active.         | 4-6 hours            |
+| **Swimming**   | Low-impact, full-body workout, perfect for all fitness levels.   | 3-4 hours            |
+| **Yoga**       | Reduces stress, enhances flexibility, and promotes mindfulness.  | 2-3 hours            |
+| **Soccer**     | Boosts teamwork, cardiovascular health, and agility.             | 5-7 hours            |
 
