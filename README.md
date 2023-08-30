@@ -6,3 +6,6 @@ Italy is well-known for its architecture, culture, art, opera, literature, film,
 1. Glide through Venice in a Gondola
 2. See an Opera in Verona's Roman Arena
 3. Attend a Local Festival
+* Pasta
+* Risotto
+* Truffles
