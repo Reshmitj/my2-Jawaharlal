@@ -8,4 +8,5 @@ Italy is well-known for its architecture, culture, art, opera, literature, film,
 3. Attend a Local Festival
 * Pasta
 * Risotto
-* Truffles
+* Truffles<br>
+**[Click here to see my bio](MyStats.md)!**
