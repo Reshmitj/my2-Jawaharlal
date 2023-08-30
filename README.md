@@ -12,7 +12,7 @@ Italy is well-known for its architecture, culture, art, opera, literature, film,
 **[Click here to know about me!](MyStats.md)**
 *****
 ### Sports Recommendations
-The below table shows 4 kinds of sports that I would recommend to others. Each of them offers a unique set of benefits, from cardiovascular fitness to teamwork and mental focus.<br>
+The below table shows 5 kinds of sports that I would recommend to others. Each of them offers a unique set of benefits, from cardiovascular fitness to teamwork and mental focus.<br>
 | Sport Name     | Recommendation Reason                                   | Average Weekly Hours |
 |----------------|---------------------------------------------------------|:-----------------------:|
 | **Tennis**     | Great for improving agility and cardiovascular fitness.          | 3-5 hours            |
