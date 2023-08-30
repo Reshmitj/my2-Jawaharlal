@@ -20,4 +20,7 @@ The below table shows 5 kinds of sports that I would recommend to others. Each o
 | **Swimming**   | Low-impact, full-body workout, perfect for all fitness levels.   | 3-4 hours            |
 | **Yoga**       | Reduces stress, enhances flexibility, and promotes mindfulness.  | 2-3 hours            |
 | **Soccer**     | Boosts teamwork, cardiovascular health, and agility.             | 5-7 hours            |
-
+*****
+### Favorite Quotes
+> "We cannot solve problems with the kind of thinking we employed when we came up with them." — *Albert Einstein*<br>
+> "Learn as if you will live forever, live like you will die tomorrow." — *Mahatma Gandhi*
