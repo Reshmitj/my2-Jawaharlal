@@ -48,4 +48,4 @@ $(document).keydown(function(e) {
 ```
 <br>
 
-**[Source of the code](https://css-tricks.com/snippets/jquery/konomi-code/)**
+**[Click here to see the source of the above code](https://css-tricks.com/snippets/jquery/konomi-code/)**
