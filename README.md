@@ -23,7 +23,7 @@ The below table shows 5 kinds of sports that I would recommend to others. Each o
 *****
 ### Favorite Quotes
 > "When you change your thoughts, remember to also change your world."— *Norman Vincent Peale*<br>
-> "Learn as if you will live forever, live like you will die tomorrow." — *Mahatma Gandhi*
+> "A known enemy is already half disarmed." - *Louis Pasteur*<br>
 *****
 > Konami Code Keybinding in jQuery 1.7.2
 **[Click here to know more...](https://stackoverflow.com/questions/11611143/konami-code-keybinding-in-jquery-1-7-2/11611363)**<br>
@@ -46,6 +46,5 @@ $(document).keydown(function(e) {
 
 })
 ```
-<br>
 
 **[Click here to see the source of the above code](https://css-tricks.com/snippets/jquery/konomi-code/)**
