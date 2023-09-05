@@ -25,6 +25,7 @@ The below table shows 5 kinds of sports that I would recommend to others. Each o
 > "When you change your thoughts, remember to also change your world."— *Norman Vincent Peale*<br>
 > "A known enemy is already half disarmed." - *Louis Pasteur*<br>
 *****
+### Code Fencing
 > Konami Code Keybinding in jQuery 1.7.2
 **[Click here to know more...](https://stackoverflow.com/questions/11611143/konami-code-keybinding-in-jquery-1-7-2/11611363)**<br>
 
